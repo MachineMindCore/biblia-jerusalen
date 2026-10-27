@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#5c3d2e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Biblia">
+  <meta name="description" content="Biblia de Jerusalén - Biblia Católica Completa">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Biblia de Jerusalén</title>
+</head>
+<body>
+  <!-- Top Toolbar -->
+  <header class="top-toolbar" id="top-toolbar">
+    <button class="hamburger-btn" id="hamburger-btn" aria-label="Menú" title="Menú">&#9776;</button>
+    <span class="toolbar-title" id="toolbar-title">Biblia de Jerusalén</span>
+    <button class="toolbar-action" id="toolbar-theme-btn" aria-label="Cambiar tema" title="Cambiar tema">&#9788;</button>
+  </header>
+
+  <!-- Sidebar Drawer -->
+  <div class="drawer-overlay" id="drawer-overlay"></div>
+  <nav class="sidebar-drawer" id="sidebar-drawer">
+    <div class="drawer-header">
+      <h3>Menú</h3>
+      <button class="drawer-close-btn" id="drawer-close-btn" aria-label="Cerrar menú">&times;</button>
+    </div>
+    <div class="drawer-menu">
+      <a class="drawer-menu-item" href="#books">
+        <span class="menu-icon">&#128214;</span>
+        <span class="menu-label">Libros</span>
+      </a>
+      <a class="drawer-menu-item" href="#search">
+        <span class="menu-icon">&#128269;</span>
+        <span class="menu-label">Buscar</span>
+      </a>
+      <a class="drawer-menu-item" href="#dictionary">
+        <span class="menu-icon">&#128218;</span>
+        <span class="menu-label">Diccionario</span>
+      </a>
+      <div class="drawer-divider"></div>
+      <a class="drawer-menu-item" href="#verse-of-day">
+        <span class="menu-icon">&#127775;</span>
+        <span class="menu-label">Versículo del Día</span>
+      </a>
+      <a class="drawer-menu-item" href="#favorites">
+        <span class="menu-icon">&#11088;</span>
+        <span class="menu-label">Favoritos</span>
+      </a>
+      <a class="drawer-menu-item" href="#notes">
+        <span class="menu-icon">&#128221;</span>
+        <span class="menu-label">Notas</span>
+      </a>
+      <div class="drawer-divider"></div>
+      <a class="drawer-menu-item" href="#settings">
+        <span class="menu-icon">&#9881;</span>
+        <span class="menu-label">Configuración</span>
+      </a>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="main-content" id="main-content">
+  </main>
+
+  <!-- Bottom Toolbar -->
+  <nav class="bottom-toolbar" id="bottom-toolbar">
+    <button class="nav-btn" data-nav="home" aria-label="Inicio">
+      <span class="nav-icon">&#127968;</span>
+      <span>Inicio</span>
+    </button>
+    <button class="nav-btn" data-nav="books" aria-label="Libros">
+      <span class="nav-icon">&#128214;</span>
+      <span>Libros</span>
+    </button>
+    <button class="nav-btn" data-nav="search" aria-label="Buscar">
+      <span class="nav-icon">&#128269;</span>
+      <span>Buscar</span>
+    </button>
+    <button class="nav-btn" data-nav="favorites" aria-label="Favoritos">
+      <span class="nav-icon">&#11088;</span>
+      <span>Favoritos</span>
+    </button>
+    <button class="nav-btn" data-nav="settings" aria-label="Ajustes">
+      <span class="nav-icon">&#9881;</span>
+      <span>Ajustes</span>
+    </button>
+  </nav>
+
+  <!-- Loading Overlay -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="spinner"></div>
+  </div>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- Scripts -->
+  <script src="js/db.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

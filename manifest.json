@@ -1,0 +1,22 @@
+{
+  "name": "Biblia de Jerusalén",
+  "short_name": "Biblia",
+  "description": "Biblia de Jerusalén - Biblia Católica Completa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#5c3d2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

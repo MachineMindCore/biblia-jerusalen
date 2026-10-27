@@ -1,0 +1,446 @@
+{
+  "total_books": 73,
+  "total_verses": 35548,
+  "total_dictionary_terms": 952,
+  "total_dividers": 10,
+  "books": [
+    {
+      "id": 1,
+      "name": "Génesis",
+      "chapters": 50,
+      "file": "01-gnesis.json"
+    },
+    {
+      "id": 2,
+      "name": "Exodo",
+      "chapters": 40,
+      "file": "02-exodo.json"
+    },
+    {
+      "id": 3,
+      "name": "Levítico",
+      "chapters": 27,
+      "file": "03-levtico.json"
+    },
+    {
+      "id": 4,
+      "name": "Números",
+      "chapters": 36,
+      "file": "04-nmeros.json"
+    },
+    {
+      "id": 5,
+      "name": "Deuteronomio",
+      "chapters": 34,
+      "file": "05-deuteronomio.json"
+    },
+    {
+      "id": 6,
+      "name": "Josué",
+      "chapters": 24,
+      "file": "06-josu.json"
+    },
+    {
+      "id": 7,
+      "name": "Jueces",
+      "chapters": 21,
+      "file": "07-jueces.json"
+    },
+    {
+      "id": 8,
+      "name": "Rut",
+      "chapters": 4,
+      "file": "08-rut.json"
+    },
+    {
+      "id": 9,
+      "name": "Samuel I",
+      "chapters": 31,
+      "file": "09-1-samuel.json"
+    },
+    {
+      "id": 10,
+      "name": "Samuel II",
+      "chapters": 24,
+      "file": "10-2-samuel.json"
+    },
+    {
+      "id": 11,
+      "name": "Reyes I",
+      "chapters": 22,
+      "file": "11-1-reyes.json"
+    },
+    {
+      "id": 12,
+      "name": "Reyes II",
+      "chapters": 25,
+      "file": "12-2-reyes.json"
+    },
+    {
+      "id": 13,
+      "name": "Crónicas I",
+      "chapters": 29,
+      "file": "13-1-crnicas.json"
+    },
+    {
+      "id": 14,
+      "name": "Crónicas II",
+      "chapters": 36,
+      "file": "14-2-crnicas.json"
+    },
+    {
+      "id": 15,
+      "name": "Esdras",
+      "chapters": 10,
+      "file": "15-esdras.json"
+    },
+    {
+      "id": 16,
+      "name": "Nehemías",
+      "chapters": 13,
+      "file": "16-nehemas.json"
+    },
+    {
+      "id": 17,
+      "name": "Tobías",
+      "chapters": 14,
+      "file": "17-tobas.json"
+    },
+    {
+      "id": 18,
+      "name": "Judit",
+      "chapters": 16,
+      "file": "18-judit.json"
+    },
+    {
+      "id": 19,
+      "name": "Ester",
+      "chapters": 16,
+      "file": "19-ester.json"
+    },
+    {
+      "id": 20,
+      "name": "Job",
+      "chapters": 42,
+      "file": "20-job.json"
+    },
+    {
+      "id": 21,
+      "name": "Salmos",
+      "chapters": 150,
+      "file": "21-salmos.json"
+    },
+    {
+      "id": 22,
+      "name": "Macabeos I",
+      "chapters": 16,
+      "file": "22-1-macabeos.json"
+    },
+    {
+      "id": 23,
+      "name": "Macabeos II",
+      "chapters": 15,
+      "file": "23-2-macabeos.json"
+    },
+    {
+      "id": 24,
+      "name": "Proverbios",
+      "chapters": 31,
+      "file": "24-proverbios.json"
+    },
+    {
+      "id": 25,
+      "name": "Eclesiastés (Qohelet)",
+      "chapters": 12,
+      "file": "25-eclesiasts-qohelet.json"
+    },
+    {
+      "id": 26,
+      "name": "Cantar",
+      "chapters": 8,
+      "file": "26-cantar.json"
+    },
+    {
+      "id": 27,
+      "name": "Sabiduría",
+      "chapters": 19,
+      "file": "27-sabidura.json"
+    },
+    {
+      "id": 28,
+      "name": "Sirácides (Eclesiástico)",
+      "chapters": 51,
+      "file": "28-sircides-eclesistico.json"
+    },
+    {
+      "id": 29,
+      "name": "Isaías",
+      "chapters": 66,
+      "file": "29-isaas.json"
+    },
+    {
+      "id": 30,
+      "name": "Jeremías",
+      "chapters": 52,
+      "file": "30-jeremas.json"
+    },
+    {
+      "id": 31,
+      "name": "Lamentaciones",
+      "chapters": 5,
+      "file": "31-lamentaciones.json"
+    },
+    {
+      "id": 32,
+      "name": "Baruc",
+      "chapters": 6,
+      "file": "32-baruc.json"
+    },
+    {
+      "id": 33,
+      "name": "Ezequiel",
+      "chapters": 48,
+      "file": "33-ezequiel.json"
+    },
+    {
+      "id": 34,
+      "name": "Daniel",
+      "chapters": 14,
+      "file": "34-daniel.json"
+    },
+    {
+      "id": 35,
+      "name": "Oseas",
+      "chapters": 14,
+      "file": "35-oseas.json"
+    },
+    {
+      "id": 36,
+      "name": "Joel",
+      "chapters": 4,
+      "file": "36-joel.json"
+    },
+    {
+      "id": 37,
+      "name": "Amós",
+      "chapters": 9,
+      "file": "37-ams.json"
+    },
+    {
+      "id": 38,
+      "name": "Abdías",
+      "chapters": 1,
+      "file": "38-abdas.json"
+    },
+    {
+      "id": 39,
+      "name": "Jonás",
+      "chapters": 4,
+      "file": "39-jons.json"
+    },
+    {
+      "id": 40,
+      "name": "Miqueas",
+      "chapters": 7,
+      "file": "40-miqueas.json"
+    },
+    {
+      "id": 41,
+      "name": "Nahún",
+      "chapters": 3,
+      "file": "41-nahn.json"
+    },
+    {
+      "id": 42,
+      "name": "Habacuc",
+      "chapters": 3,
+      "file": "42-habacuc.json"
+    },
+    {
+      "id": 43,
+      "name": "Sofonías",
+      "chapters": 3,
+      "file": "43-sofonas.json"
+    },
+    {
+      "id": 44,
+      "name": "Ageo",
+      "chapters": 2,
+      "file": "44-ageo.json"
+    },
+    {
+      "id": 45,
+      "name": "Zacarías",
+      "chapters": 14,
+      "file": "45-zacaras.json"
+    },
+    {
+      "id": 46,
+      "name": "Malaquías",
+      "chapters": 3,
+      "file": "46-malaquas.json"
+    },
+    {
+      "id": 47,
+      "name": "San Mateo",
+      "chapters": 28,
+      "file": "47-san-mateo.json"
+    },
+    {
+      "id": 48,
+      "name": "San Marcos",
+      "chapters": 16,
+      "file": "48-san-marcos.json"
+    },
+    {
+      "id": 49,
+      "name": "San Lucas",
+      "chapters": 24,
+      "file": "49-san-lucas.json"
+    },
+    {
+      "id": 50,
+      "name": "San Juan",
+      "chapters": 21,
+      "file": "50-san-juan.json"
+    },
+    {
+      "id": 51,
+      "name": "Hechos",
+      "chapters": 28,
+      "file": "51-hechos.json"
+    },
+    {
+      "id": 52,
+      "name": "Romanos",
+      "chapters": 16,
+      "file": "52-romanos.json"
+    },
+    {
+      "id": 53,
+      "name": "Corintios I",
+      "chapters": 16,
+      "file": "53-i-corintios.json"
+    },
+    {
+      "id": 54,
+      "name": "Corintios II",
+      "chapters": 13,
+      "file": "54-ii-corintios.json"
+    },
+    {
+      "id": 55,
+      "name": "Gálatas",
+      "chapters": 6,
+      "file": "55-glatas.json"
+    },
+    {
+      "id": 56,
+      "name": "Efesios",
+      "chapters": 6,
+      "file": "56-efesios.json"
+    },
+    {
+      "id": 57,
+      "name": "Filipenses",
+      "chapters": 4,
+      "file": "57-filipenses.json"
+    },
+    {
+      "id": 58,
+      "name": "Colosenses",
+      "chapters": 4,
+      "file": "58-colosenses.json"
+    },
+    {
+      "id": 59,
+      "name": "Tesalonicenses I",
+      "chapters": 5,
+      "file": "59-i-tesalonicenses.json"
+    },
+    {
+      "id": 60,
+      "name": "Tesalonicenses II",
+      "chapters": 3,
+      "file": "60-ii-tesalonicenses.json"
+    },
+    {
+      "id": 61,
+      "name": "Timoteo I",
+      "chapters": 6,
+      "file": "61-i-timoteo.json"
+    },
+    {
+      "id": 62,
+      "name": "Timoteo II",
+      "chapters": 4,
+      "file": "62-ii-timoteo.json"
+    },
+    {
+      "id": 63,
+      "name": "Tito",
+      "chapters": 3,
+      "file": "63-tito.json"
+    },
+    {
+      "id": 64,
+      "name": "Filemon",
+      "chapters": 1,
+      "file": "64-filemon.json"
+    },
+    {
+      "id": 65,
+      "name": "Hebreos",
+      "chapters": 13,
+      "file": "65-hebreos.json"
+    },
+    {
+      "id": 66,
+      "name": "Santiago",
+      "chapters": 5,
+      "file": "66-santiago.json"
+    },
+    {
+      "id": 67,
+      "name": "Pedro I",
+      "chapters": 5,
+      "file": "67-i-pedro.json"
+    },
+    {
+      "id": 68,
+      "name": "Pedro II",
+      "chapters": 3,
+      "file": "68-ii-pedro.json"
+    },
+    {
+      "id": 69,
+      "name": "Juan I",
+      "chapters": 5,
+      "file": "69-i-juan.json"
+    },
+    {
+      "id": 70,
+      "name": "Juan II",
+      "chapters": 1,
+      "file": "70-ii-juan.json"
+    },
+    {
+      "id": 71,
+      "name": "Juan III",
+      "chapters": 1,
+      "file": "71-iii-juan.json"
+    },
+    {
+      "id": 72,
+      "name": "Judas",
+      "chapters": 1,
+      "file": "72-judas.json"
+    },
+    {
+      "id": 73,
+      "name": "Apocalipsis",
+      "chapters": 22,
+      "file": "73-apocalipsis.json"
+    }
+  ]
+}

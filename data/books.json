@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "name": "Génesis",
+    "chapters": 50,
+    "divider": 1
+  },
+  {
+    "id": 2,
+    "name": "Exodo",
+    "chapters": 40,
+    "divider": 1
+  },
+  {
+    "id": 3,
+    "name": "Levítico",
+    "chapters": 27,
+    "divider": 1
+  },
+  {
+    "id": 4,
+    "name": "Números",
+    "chapters": 36,
+    "divider": 1
+  },
+  {
+    "id": 5,
+    "name": "Deuteronomio",
+    "chapters": 34,
+    "divider": 1
+  },
+  {
+    "id": 6,
+    "name": "Josué",
+    "chapters": 24,
+    "divider": 2
+  },
+  {
+    "id": 7,
+    "name": "Jueces",
+    "chapters": 21,
+    "divider": 2
+  },
+  {
+    "id": 8,
+    "name": "Rut",
+    "chapters": 4,
+    "divider": 2
+  },
+  {
+    "id": 9,
+    "name": "Samuel I",
+    "chapters": 31,
+    "divider": 2
+  },
+  {
+    "id": 10,
+    "name": "Samuel II",
+    "chapters": 24,
+    "divider": 2
+  },
+  {
+    "id": 11,
+    "name": "Reyes I",
+    "chapters": 22,
+    "divider": 2
+  },
+  {
+    "id": 12,
+    "name": "Reyes II",
+    "chapters": 25,
+    "divider": 2
+  },
+  {
+    "id": 13,
+    "name": "Crónicas I",
+    "chapters": 29,
+    "divider": 2
+  },
+  {
+    "id": 14,
+    "name": "Crónicas II",
+    "chapters": 36,
+    "divider": 2
+  },
+  {
+    "id": 15,
+    "name": "Esdras",
+    "chapters": 10,
+    "divider": 2
+  },
+  {
+    "id": 16,
+    "name": "Nehemías",
+    "chapters": 13,
+    "divider": 2
+  },
+  {
+    "id": 17,
+    "name": "Tobías",
+    "chapters": 14,
+    "divider": null
+  },
+  {
+    "id": 18,
+    "name": "Judit",
+    "chapters": 16,
+    "divider": null
+  },
+  {
+    "id": 19,
+    "name": "Ester",
+    "chapters": 16,
+    "divider": 2
+  },
+  {
+    "id": 20,
+    "name": "Job",
+    "chapters": 42,
+    "divider": 3
+  },
+  {
+    "id": 21,
+    "name": "Salmos",
+    "chapters": 150,
+    "divider": 3
+  },
+  {
+    "id": 22,
+    "name": "Macabeos I",
+    "chapters": 16,
+    "divider": null
+  },
+  {
+    "id": 23,
+    "name": "Macabeos II",
+    "chapters": 15,
+    "divider": null
+  },
+  {
+    "id": 24,
+    "name": "Proverbios",
+    "chapters": 31,
+    "divider": 3
+  },
+  {
+    "id": 25,
+    "name": "Eclesiastés (Qohelet)",
+    "chapters": 12,
+    "divider": null
+  },
+  {
+    "id": 26,
+    "name": "Cantar",
+    "chapters": 8,
+    "divider": 10
+  },
+  {
+    "id": 27,
+    "name": "Sabiduría",
+    "chapters": 19,
+    "divider": null
+  },
+  {
+    "id": 28,
+    "name": "Sirácides (Eclesiástico)",
+    "chapters": 51,
+    "divider": 3
+  },
+  {
+    "id": 29,
+    "name": "Isaías",
+    "chapters": 66,
+    "divider": 4
+  },
+  {
+    "id": 30,
+    "name": "Jeremías",
+    "chapters": 52,
+    "divider": 4
+  },
+  {
+    "id": 31,
+    "name": "Lamentaciones",
+    "chapters": 5,
+    "divider": 4
+  },
+  {
+    "id": 32,
+    "name": "Baruc",
+    "chapters": 6,
+    "divider": null
+  },
+  {
+    "id": 33,
+    "name": "Ezequiel",
+    "chapters": 48,
+    "divider": 4
+  },
+  {
+    "id": 34,
+    "name": "Daniel",
+    "chapters": 14,
+    "divider": 4
+  },
+  {
+    "id": 35,
+    "name": "Oseas",
+    "chapters": 14,
+    "divider": 5
+  },
+  {
+    "id": 36,
+    "name": "Joel",
+    "chapters": 4,
+    "divider": 5
+  },
+  {
+    "id": 37,
+    "name": "Amós",
+    "chapters": 9,
+    "divider": 5
+  },
+  {
+    "id": 38,
+    "name": "Abdías",
+    "chapters": 1,
+    "divider": 5
+  },
+  {
+    "id": 39,
+    "name": "Jonás",
+    "chapters": 4,
+    "divider": 5
+  },
+  {
+    "id": 40,
+    "name": "Miqueas",
+    "chapters": 7,
+    "divider": 5
+  },
+  {
+    "id": 41,
+    "name": "Nahún",
+    "chapters": 3,
+    "divider": null
+  },
+  {
+    "id": 42,
+    "name": "Habacuc",
+    "chapters": 3,
+    "divider": 5
+  },
+  {
+    "id": 43,
+    "name": "Sofonías",
+    "chapters": 3,
+    "divider": 5
+  },
+  {
+    "id": 44,
+    "name": "Ageo",
+    "chapters": 2,
+    "divider": 5
+  },
+  {
+    "id": 45,
+    "name": "Zacarías",
+    "chapters": 14,
+    "divider": 5
+  },
+  {
+    "id": 46,
+    "name": "Malaquías",
+    "chapters": 3,
+    "divider": 5
+  },
+  {
+    "id": 47,
+    "name": "San Mateo",
+    "chapters": 28,
+    "divider": 6
+  },
+  {
+    "id": 48,
+    "name": "San Marcos",
+    "chapters": 16,
+    "divider": 6
+  },
+  {
+    "id": 49,
+    "name": "San Lucas",
+    "chapters": 24,
+    "divider": 6
+  },
+  {
+    "id": 50,
+    "name": "San Juan",
+    "chapters": 21,
+    "divider": 6
+  },
+  {
+    "id": 51,
+    "name": "Hechos",
+    "chapters": 28,
+    "divider": 7
+  },
+  {
+    "id": 52,
+    "name": "Romanos",
+    "chapters": 16,
+    "divider": 8
+  },
+  {
+    "id": 53,
+    "name": "Corintios I",
+    "chapters": 16,
+    "divider": 8
+  },
+  {
+    "id": 54,
+    "name": "Corintios II",
+    "chapters": 13,
+    "divider": 8
+  },
+  {
+    "id": 55,
+    "name": "Gálatas",
+    "chapters": 6,
+    "divider": 8
+  },
+  {
+    "id": 56,
+    "name": "Efesios",
+    "chapters": 6,
+    "divider": 8
+  },
+  {
+    "id": 57,
+    "name": "Filipenses",
+    "chapters": 4,
+    "divider": 8
+  },
+  {
+    "id": 58,
+    "name": "Colosenses",
+    "chapters": 4,
+    "divider": 8
+  },
+  {
+    "id": 59,
+    "name": "Tesalonicenses I",
+    "chapters": 5,
+    "divider": 8
+  },
+  {
+    "id": 60,
+    "name": "Tesalonicenses II",
+    "chapters": 3,
+    "divider": 8
+  },
+  {
+    "id": 61,
+    "name": "Timoteo I",
+    "chapters": 6,
+    "divider": 8
+  },
+  {
+    "id": 62,
+    "name": "Timoteo II",
+    "chapters": 4,
+    "divider": 8
+  },
+  {
+    "id": 63,
+    "name": "Tito",
+    "chapters": 3,
+    "divider": 8
+  },
+  {
+    "id": 64,
+    "name": "Filemon",
+    "chapters": 1,
+    "divider": 8
+  },
+  {
+    "id": 65,
+    "name": "Hebreos",
+    "chapters": 13,
+    "divider": 9
+  },
+  {
+    "id": 66,
+    "name": "Santiago",
+    "chapters": 5,
+    "divider": 9
+  },
+  {
+    "id": 67,
+    "name": "Pedro I",
+    "chapters": 5,
+    "divider": 9
+  },
+  {
+    "id": 68,
+    "name": "Pedro II",
+    "chapters": 3,
+    "divider": 9
+  },
+  {
+    "id": 69,
+    "name": "Juan I",
+    "chapters": 5,
+    "divider": 9
+  },
+  {
+    "id": 70,
+    "name": "Juan II",
+    "chapters": 1,
+    "divider": 9
+  },
+  {
+    "id": 71,
+    "name": "Juan III",
+    "chapters": 1,
+    "divider": 9
+  },
+  {
+    "id": 72,
+    "name": "Judas",
+    "chapters": 1,
+    "divider": 9
+  },
+  {
+    "id": 73,
+    "name": "Apocalipsis",
+    "chapters": 22,
+    "divider": 10
+  }
+]

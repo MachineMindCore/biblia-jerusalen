@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Pentateuco",
+    "color": "#880E4F"
+  },
+  {
+    "id": 2,
+    "name": "Históricos",
+    "color": "#4A148C"
+  },
+  {
+    "id": 3,
+    "name": "Poéticos",
+    "color": "#006064"
+  },
+  {
+    "id": 4,
+    "name": "Profetas Mayores",
+    "color": "#827717"
+  },
+  {
+    "id": 5,
+    "name": "Profetas Menores",
+    "color": "#004D40"
+  },
+  {
+    "id": 6,
+    "name": "Evangelios",
+    "color": "#E65100"
+  },
+  {
+    "id": 7,
+    "name": "Históricos",
+    "color": "#33691E"
+  },
+  {
+    "id": 8,
+    "name": "Cartas Paulinas",
+    "color": "#1B5E20"
+  },
+  {
+    "id": 9,
+    "name": "Cartas Generales",
+    "color": "#3E2723"
+  },
+  {
+    "id": 10,
+    "name": "Proféticos",
+    "color": "#BF360C"
+  }
+]
